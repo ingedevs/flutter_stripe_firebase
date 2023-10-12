@@ -1,6 +1,6 @@
 # fl_stripe
 
-Demo de Stripe en Flutter
+Aplicación de ejemplo para cobrar con Stripe en Flutter usando Firebase Functions.
 
 ## Lado del cliente
 
